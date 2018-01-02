@@ -39,7 +39,7 @@ Eg:
 }
 
 
-Generated svg:
-<svg>
+Output svg:
+/<svg/>
 //generated graph
-</svg>
+/<//svg/>
