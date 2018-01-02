@@ -40,6 +40,6 @@ Eg:
 
 
 Output svg:
-/<svg/>
+"<svg>"
 //generated graph
-/<//svg/>
+"</svg>"
